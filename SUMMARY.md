@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [SDN盲人摸象](mininet.md)
+* [SDN初识](sdn)
 * [mininet](mininet)
 * openvswitch
 
