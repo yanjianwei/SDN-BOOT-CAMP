@@ -1,4 +1,4 @@
-SDN BOOT CAMP
+Scripture Library
 ===============
 
 v0.1.0
