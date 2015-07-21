@@ -3,7 +3,7 @@ SDN BOOT CAMP
 
 v0.1.0
 
-[Openstack](http://www.openstack.org/)[Docker](https://www.docker.com/)[SDN/NFV](www.sdnlab.com) 是最近比较火热的技术领域，现写此书与大家交流技术心得，分享经验，您也可以提出宝贵意见，希望与大家共同进步。
+[Openstack](http://www.openstack.org/) | [Docker](https://www.docker.com/) | [SDN/NFV](www.sdnlab.com) 是最近比较火热的技术领域，现写此书与大家交流技术心得，分享经验，您也可以提出宝贵意见，希望与大家共同进步。
      
 本书最大的亮点和特色是：
 1.本书不同于学院派教科书般的说教，也不同于行业分析类的理论推演，而是注重实战，并尽力可视化实战过程和结果，让小学生都能看的明白，亦能让研究生茅塞顿开
