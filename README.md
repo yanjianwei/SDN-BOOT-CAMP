@@ -5,7 +5,7 @@ v0.1.0
 
 [Openstack](http://www.openstack.org/)  | [SDN/NFV](www.sdnlab.com) | [Docker](https://www.docker.com/)是比较热门的技术领域，通过写此书加强技术积累，记录学习过程，您也可以提出宝贵建议或指出错误，共同进步，万分感谢。
 
-- 无论江湖多大，终归相聚天涯！本书英文名为"scripture library"，中文译名为"藏经阁"，希望"藏经阁"能成为你我心目中的天涯！练好内功，努力成为IT领域里"扫地僧"级别的工程师。
+- 本书中文译名为"藏经阁"，寓意练好基本功，努力成为IT领域里"扫地僧"级别的工程师。
 
 在线阅读：[GitBook](https://www.gitbook.io/book/yanjianwei/scripture-library) 
 
