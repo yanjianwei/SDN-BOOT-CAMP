@@ -3,12 +3,9 @@ Scripture Library
 
 v0.1.0
 
-[Openstack](http://www.openstack.org/) | [Docker](https://www.docker.com/) | [SDN/NFV](www.sdnlab.com) 是最近比较火热的技术领域，希望通过此书与大家交流心得，分享经验，您也可以提出宝贵意见，共同进步。
-     
-本书最大的亮点和特色是：
-* 1.本书不同于学院派教科书般的说教，也不同于行业分析类的理论推演，而是注重实战，并尽力可视化实战过程和结果。
-* 2.本书将也将重点关注编程的基本功积累，通过对openstack的代码解读，学习其设计和编程技巧。
-* 3.本书英文名为"scripture library"，翻译为中文名为"藏经阁"，无论江湖多大，终归相聚天涯！希望"藏经阁"能成为你我心目中的天涯！梦想在IT领域成为"扫地僧"级别的高级码农。
+[Openstack](http://www.openstack.org/)  | [SDN/NFV](www.sdnlab.com) | [Docker](https://www.docker.com/)是比较热门的技术领域，通过写此书加强技术积累，记录学习过程，您也可以提出宝贵建议或指出错误，共同进步，万分感谢。
+
+- 无论江湖多大，终归相聚天涯！本书英文名为"scripture library"，中文译名为"藏经阁"，希望"藏经阁"能成为你我心目中的天涯！练好内功，努力成为IT领域里"扫地僧"级别的工程师。
 
 在线阅读：[GitBook](https://www.gitbook.io/book/yanjianwei/scripture-library) 
 
